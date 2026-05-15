@@ -1,6 +1,3 @@
-# mandarin810.github.io
-mandarin810.github.io
-
 "use client";
 
 import { useState } from "react";
